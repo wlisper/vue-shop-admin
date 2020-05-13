@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="icofont" horiz-adv-x="1000" >
+<font-face font-family="IcoFont" font-weight="400" font-style="Regular" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="user-alt-5" horiz-adv-x="1000" unicode="&#xecff;" d="M939 15c-42 115-114 203-220 263-5 3-9 3-14-1-57-48-123-74-197-76-80-1-151 24-212 75-6 5-10 5-16 2-42-24-81-54-114-90-70-75-112-164-128-266-2-14-3-27-5-41v-31c308 0 615 0 923 0 8 0 11 2 11 11-2 53-10 104-28 154z m-439 270c156 1 282 127 282 284 0 155-127 281-282 281-157 0-282-127-282-284 1-155 128-281 282-281z m174 175c-47-51-99-90-169-92-73-3-125 39-172 92h341z" />
+<glyph glyph-name="ui-password" horiz-adv-x="1000" unicode="&#xec71;" d="M967 464h-504c-18 0-42 12-53 27 0 0-92 123-189 123-122 0-221-99-221-222 0-122 99-221 221-221 97 0 189 123 189 123 11 15 35 26 53 26h118v1h123v-51h-93v-183h77v93h53v-59h78v59h44v-93h82l0 93v90h-93v51h148v110c0 18-15 33-33 33z m-746-183c-62 0-112 50-112 111 0 62 50 112 112 112s112-50 112-112c0-61-50-111-112-111z" />
+</font>
+</defs>
+</svg>
